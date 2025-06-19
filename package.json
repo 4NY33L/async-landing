@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landig page que implementa los conceptos de asincronismo, consultando la API de youtube para traer ciertos videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4NY33L/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4NY33L/async-landing/issues"
+  },
+  "homepage": "https://github.com/4NY33L/async-landing#readme"
+}
